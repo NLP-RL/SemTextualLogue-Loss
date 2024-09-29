@@ -29,6 +29,7 @@ Over the past two decades, dialogue modeling has made significant strides, movin
 	e. SemTextual Logue: bash SemTextual_Logue.sh
 
 ## Citation Information 
+If you find this code useful in your research, please consider citing:
 ~~~~
 @inproceedings{tiwari2024hi,
   title={Hi Model, generating “nice” instead of “good” is not as bad as generating “rice”! Towards Context and Semantic Infused Dialogue Generation Loss Function},
